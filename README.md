@@ -4,9 +4,7 @@
 
 <p>
 
-🔗 <a href="https://leetcode.com/u/sallyalaa_1/">LeetCode</a> |
-
-<a href="https://www.hackerrank.com/profile/sallyalaa013">HackerRank</a>
+🔗 <a href="https://leetcode.com/u/sallyalaa_1/">LeetCode</a> |<a href="https://www.hackerrank.com/profile/sallyalaa013">HackerRank</a>
 
 </p>
 
@@ -16,7 +14,7 @@
 
 Welcome to my page! </br>
 
-I'm <b>Sally Alaa Ahmed</b>, an AI & Machine Learning Engineer from .<br/>
+I'm <b>Sally Alaa Ahmed</b>, an AI & Data Engineer.<br/>
 
 I build production-ready AI systems, LLM applications, and data-driven solutions.
 
